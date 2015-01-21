@@ -1,2 +1,2 @@
 # Sunshine
-This project will showcase awesome things
+This project will showcase ALL THE AWESOME THINGS
